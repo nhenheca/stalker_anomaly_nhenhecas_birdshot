@@ -37,3 +37,44 @@ k_bullet_speed	= 1.425
 tier                                     = 2
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ammo_12x70_bird_slug]:ammo_base ; Birdshot Slug also Known as "Poor's Man Slug"
+GroupControlSection	= spawn_group
+discovery_dependency =
+$spawn			= "weapons\ammo\ammo_12x70_bird" ; option for Level Editor
+class			= AMMO_S
+cform           = skeleton
+visual          = dynamics\weapons\wpn_ammo\ammo_12x70_buck.ogf
+description		= ammo-12x70-bird_slug_descr
+$prefetch 		= 64
+
+cost			= 0
+
+box_size		= 10
+
+inv_name		= ammo-12x76-bird_slug
+inv_name_short	= ammo-12x76-bird_slug_s
+inv_weight		= .45
+
+inv_grid_width		= 2
+inv_grid_height		= 1
+inv_grid_x			= 55
+inv_grid_y			= 23
+
+;values compared to normal 12x70_slug
+k_dist			= 0.6  ; 0.9 
+k_disp			= 1.0 ; 0.5
+k_hit			= 1.2  ; 2.0
+k_impulse		= 1.5  ; 1.9
+k_ap			= 0.07 ; 0.21
+impair			= 1.05
+tracer_color_ID	= 0
+
+wm_size         = 0.12
+k_air_resistance = 1.0  ; 0.6
+k_bullet_speed	= 1.050 ; 1.275
+k_cam_dispersion = 0.7  ; 0.8
+
+tier                                     = 2
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
