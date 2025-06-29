@@ -1,0 +1,39 @@
+[ammo_12x70_bird]:ammo_base ; #4 Birdshot
+GroupControlSection	= spawn_group
+discovery_dependency =
+$spawn			= "weapons\ammo\ammo_12x70_bird" ; option for Level Editor
+class			= AMMO_S
+cform           = skeleton
+visual          = dynamics\weapons\wpn_ammo\ammo_12x70_buck.ogf
+description		= ammo-12x70-bird_descr
+$prefetch 		= 64
+
+cost			= 325
+
+box_size		= 10
+
+inv_name		= ammo-12x70-bird
+inv_name_short	= ammo-12x70-bird_s
+inv_weight		= .45
+
+inv_grid_width	= 2
+inv_grid_height	= 1
+inv_grid_x		= 55
+inv_grid_y		= 22
+
+k_dist			= 0.375
+k_disp			= 20
+k_hit			= 0.02
+k_impulse		= 0.01
+k_ap			= 0.0001
+buck_shot		= 100
+tracer			= off
+4to1_tracer		= false
+wm_size         = 0.01
+k_air_resistance = 4.4
+k_cam_dispersion          = 0.5
+k_bullet_speed	= 1.425
+
+tier                                     = 2
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
