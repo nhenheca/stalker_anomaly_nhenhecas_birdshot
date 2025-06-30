@@ -1,5 +1,6 @@
-# stalker_anomaly_nhenhecas_birdshot
+# Nhenhecas Stalker Anomaly Birdshot
 Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMMA
+
 
 ## TODO
 - Balance dmg/ap of Birdshot Slugs
