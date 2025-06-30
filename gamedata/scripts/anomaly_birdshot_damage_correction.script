@@ -159,11 +159,17 @@ function monster_on_before_hit(monster,shit,bone_id)
 	local dist = monster_pos:distance_to(shooter_pos)
 
 	if ammo_section == "ammo_12x70_buck" or ammo_section == "ammo_12x70_buck_bad" or 
-	   ammo_section == "ammo_20x70_buck" or ammo_section == "ammo_23x75_shrapnel" then
+	   ammo_section == "ammo_20x70_buck" or ammo_section == "ammo_23x75_shrapnel" or
+	   -- BS_CHANGE START
+	   ammo_section == "ammo_12x70_bird" then
+	   -- BS_CHANGE END
 		ammo_mult = 0.78
 	end
 
-	if ammo_section == "ammo_12x76_zhekan" or ammo_section == "ammo_12x76_zhekan_bad" then
+	if ammo_section == "ammo_12x76_zhekan" or ammo_section == "ammo_12x76_zhekan_bad" or 
+		-- BS_CHANGE START
+		ammo_section == "ammo_12x70_bird_slug" then
+		-- BS_CHANGE END
 		ammo_mult = 1.40
 	end
 
