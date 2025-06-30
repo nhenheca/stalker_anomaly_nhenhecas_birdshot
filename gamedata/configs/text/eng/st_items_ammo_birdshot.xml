@@ -18,7 +18,7 @@
 		<text>12x70 birdshot</text>
 	</string>
 
-	<string id="ammo-12x70-bird_slug">
+	<string id="ammo-12x76-bird_slug">
 		<text>12x70 Birdshot Slugs</text>
 	</string>
 	<string id="ammo-12x70-bird_slug_descr">
@@ -27,7 +27,7 @@
 		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]High
 		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[ui_gray_2] - %c[ui_gray_2] A fused cluster of birdshot, medium eff. range</text>
 	</string>
-	<string id="ammo-12x70-bird_slug_s">
+	<string id="ammo-12x76-bird_slug_s">
 		<text>12x70 birdshot</text>
 	</string>
 </string_table>

@@ -556,7 +556,7 @@ function npc_on_before_hit(npc,shit,bone_id)
 	local armor_loss_increment = 0
     -- BS_CHANGE START
     if ammo_section == "ammo_12x70_bird" then
-        armor_loss_increment = tonumber(k_ap * 0.005) -- birdshot does next to 0 armor damage
+        armor_loss_increment = tonumber(k_ap * 0.0075) -- birdshot does next to 0 armor damage
     else
         armor_loss_increment = tonumber(k_ap * 0.60) -- reduce bone armor depending on k_ap
     end
