@@ -24,6 +24,8 @@ Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMM
 - Add ammo to traders pool of buyable ammo
 
 - Add compability to all shotguns
+
+- Fix ammo descriptions
   
 ## OPTIONAL
 - Create custom event/task so people can try out the new ammo
