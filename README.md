@@ -3,13 +3,13 @@ Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMM
 
 
 ## TODO
-- Balance dmg/ap of Birdshot #4 :check_mark:
+- ✅ Balance dmg/ap of Birdshot #4 
 
-- Balance dmg/ap of Birdshot Slugs :check_mark:
+- ✅ Balance dmg/ap of Birdshot Slugs 
 
-- Add icons for:
-  - #4 Birdshot :check_mark:
-  - Birdshot Slugs :check_mark:
+- ✅ Add icons for:
+  - #4 Birdshot 
+  - Birdshot Slugs 
 
 - Add disassemble function and items when recycling birdshot ammo
 
@@ -19,13 +19,13 @@ Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMM
 
 - Fix ammo selection wheel to support both ammo selections
 
-- Balance prices and quantity :check_mark:
+- ✅ Balance prices and quantity :check_mark:
 
 - Add ammo to traders pool of buyable ammo
 
 - Add compability to all shotguns
 
-- Fix ammo descriptions :check_mark:
+- ✅ Fix ammo descriptions
   
 ## OPTIONAL
 - Create custom event/task so people can try out the new ammo
