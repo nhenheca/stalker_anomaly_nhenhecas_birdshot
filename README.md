@@ -3,9 +3,9 @@ Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMM
 
 
 ## TODO
-- Balance dmg/ap of Birdshot #4
+- Balance dmg/ap of Birdshot #4 :check_mark:
 
-- Balance dmg/ap of Birdshot Slugs
+- Balance dmg/ap of Birdshot Slugs :check_mark:
 
 - Add icons for:
   - #4 Birdshot

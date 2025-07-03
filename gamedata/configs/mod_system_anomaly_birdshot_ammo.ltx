@@ -21,16 +21,16 @@ inv_grid_height	= 1
 inv_grid_x		= 55
 inv_grid_y		= 22
 
-k_dist			= 0.6
-k_disp			= 17.5
-k_hit			= 0.023 ;121
+k_dist			= 0.9
+k_disp			= 20
+k_hit			= 0.022 
 k_impulse		= 0.01
-k_ap			= 0.0005
+k_ap			= 0.00015
 buck_shot		= 100
 tracer			= off
 4to1_tracer		= false
 wm_size         = 0.01
-k_air_resistance = 4.0
+k_air_resistance = 2.0
 k_cam_dispersion          = 0.5
 k_bullet_speed	= 1.425
 
@@ -44,7 +44,7 @@ discovery_dependency =
 $spawn			= "weapons\ammo\ammo_12x70_bird" ; option for Level Editor
 class			= AMMO_S
 cform           = skeleton
-visual          = dynamics\weapons\wpn_ammo\ammo_12x70_buck.ogf
+visual          = dynamics\weapons\wpn_ammo\ammo_12x76_zhekan.ogf
 description		= ammo-12x70-bird_slug_descr
 $prefetch 		= 64
 
@@ -61,20 +61,19 @@ inv_grid_height		= 1
 inv_grid_x			= 55
 inv_grid_y			= 23
 
-;values compared to normal 12x70_slug
-k_dist			= 0.6  
-k_disp			= 1.5 
-k_hit			= 1.5  ; 79
-k_impulse		= 1.0  
-k_ap			= 0.15
+k_dist			= 0.9
+k_disp			= 1.5
+k_hit			= 1.5
+k_impulse		= 0.5
+k_ap			= 0.015
 impair			= 1.05
 tracer_color_ID	= 0
 
 wm_size         = 0.12
-k_air_resistance = 1.0  
-k_bullet_speed	= 1.275
-k_cam_dispersion = 0.8  
+k_air_resistance = 2.0
+k_bullet_speed	= 1.2
+k_cam_dispersion = 0.8
 
-tier                                     = 2
+tier     
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
