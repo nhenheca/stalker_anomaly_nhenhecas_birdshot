@@ -1,34 +1,40 @@
-# Nhenhecas Stalker Anomaly Birdshot
-Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMMA
+# Nhenhecas Stalker G.A.M.M.A Birdshot
+Adds **Birdshot Shells** and **Birdshot Slugs** AKA 'Poor Man Slugs' to STALKER G.A.M.M.A.
+## Features
+- 3 Custom recipes to create the new ammo types.
+- Buyable in the default traders at level 1 (only birdshot shells not birdhsot slugs).
+- Birdshot slugs are only craftable.
 
+### Description
+Do you love shotguns? Do you want to experience them all? Then fear not. This adds the missing link.
+Now you can play with birshot, buckshot and slugs.
 
-## TODO
-- ✅ Balance dmg/ap of Birdshot #4 
+## CHANGELIST
+- ✅ Balance dmg/ap of Birdshot #4.
 
-- ✅ Balance dmg/ap of Birdshot Slugs 
+- ✅ Balance dmg/ap of Birdshot Slugs.
 
 - ✅ Add icons for:
-  - #4 Birdshot 
-  - Birdshot Slugs 
+  - #4 Birdshot. 
+  - Birdshot Slugs. 
 
-- ✅ Add disassemble function and items when recycling birdshot ammo
+- ✅ Add disassemble function and items when recycling birdshot ammo.
 
 - ✅ Add crafting recepies for:
-  - #4 Birdshot
-  - Birdshot Slugs
+  - #4 Birdshot.
+  - Birdshot Slugs.
 
-- ✅ Fix ammo selection wheel to support both ammo selections
+- ✅ Fix ammo selection wheel to support both ammo selections.
 
-- ✅ Balance prices and quantity :check_mark:
+- ✅ Balance prices and quantity.
 
-- ✅ Add ammo to traders pool of buyable ammo
+- ✅ Add ammo to traders pool of buyable ammo.
 
-- ✅ Add compatibility to all shotguns
+- ✅ Add compatibility to all shotguns.
 
-- ✅ Fix ammo descriptions
-  
-## OPTIONAL
-- Create custom event/task so people can try out the new ammo
+- ✅ Fix ammo descriptions.
+
+- ❌ Create custom event/task so people can try out the new ammo.
 
 ## CREDITS, HELP AND THANKS
 In no particular order:
@@ -40,3 +46,7 @@ In no particular order:
 - MFB mfb.bam
 - Lucy lucy.fer
 - Grok grokitach
+
+## FAQ
+- Q: Will you add compatibility to another modpacks or vanilla anomaly?
+- R: If I get the time or see if there is a good traction to the mod.
