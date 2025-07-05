@@ -13,7 +13,7 @@ Adds #4 Birdshot and Birdshot Slugs AKA 'Poor Man Slugs' to STALKER ANOMALY/GAMM
 
 - Add disassemble function and items when recycling birdshot ammo
 
-- Add crafting recepies for:
+- ✅ Add crafting recepies for:
   - #4 Birdshot
   - Birdshot Slugs
 
