@@ -10,8 +10,8 @@
 	</string>
 	<string id="ammo-12x70-bird_descr">
 		<text>Standard 12 gauge #4 birdshot cheap and abundant. Good for hunting ducks or mutants shot blank. \n 
-		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]None (0.15 x 100)
-		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]138 (1.16 x 100)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Armor penetration power (AP): %c[ui_gray_1]None (0.015 x 100)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Nominal stopping power (DMG): %c[ui_gray_1]116 (1.16 x 100)
 		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[ui_gray_2] - %c[ui_gray_2] Expanding cloud of pellets, short eff. range</text>
 	</string>
 	<string id="ammo-12x70-bird_s">
