@@ -1,4 +1,4 @@
-# Nhenhecas Birdshot for Stalker G.A.M.M.A 
+# SANB ( STALKER Anomaly Nhenhecas Birdshot ) for G.A.M.M.A
 Adds **Birdshot Shells** and **Birdshot Slugs** AKA 'Poor Man Slugs/Cut-shells' to STALKER G.A.M.M.A.
 ## Description
 Do you love shotguns? Do you want to experience them all? Then fear not. This adds the missing link.
